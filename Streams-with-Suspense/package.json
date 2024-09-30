@@ -1,0 +1,14 @@
+{
+  "name": "bun-apis",
+  "module": "index.ts",
+  "type": "module",
+  "devDependencies": {
+    "@types/bun": "latest"
+  },
+  "peerDependencies": {
+    "typescript": "^5.0.0"
+  },
+  "dependencies": {
+    "@kitajs/html": "^4.2.2"
+  }
+}
